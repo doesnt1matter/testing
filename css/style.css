@@ -1057,6 +1057,11 @@ div._round {
           transform: translate(-50%, -50%);
 }
 
+.popup__checkbox #checkbox {
+  width: 0;
+  height: 0;
+}
+
 .popup__checkbox input {
   cursor: pointer;
   border: none;
